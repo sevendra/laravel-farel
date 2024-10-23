@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Profile Layout</title>
-  <script src="https://cdn.tailwindcss.com"></script>
+  @vite('resources/css/app.css')
 </head>
 <body class="bg-gradient-to-r from-purple-900 via-purple-800 to-purple-700 min-h-screen flex flex-col items-center">
 
